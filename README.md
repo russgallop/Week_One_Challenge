@@ -1,8 +1,3 @@
+This is the week one challenge in which we are given starter code and were to change and add some content.  One of the challenges were to add accessibility to the page by including an alt attribute to an image and adding a description.  This allows text readers to read and voice the description of the image.  It will also display the description on the page if for some reason the image doesn’t appear.
 
-This is the week one challenge in which we are given starter code and were to change and add some content.
-
-One of the challenges were to add accessibility standards.  To allow persons who are visually impaired to know what an image is on a page by using the "alt" attribute.  Or if the link becomes broken for some reason there will be a description of the image.
-
-Also added semantic elements to replace non semantic elements such as div and replacing with section 
-
-
+The title element was also changed to add a more descriptive title to reflect the nature of the website and the business behind it.  Semantic elements were also added to replace non semantic elements such as div and replacing with section.
